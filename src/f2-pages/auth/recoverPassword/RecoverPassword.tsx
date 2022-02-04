@@ -1,7 +1,3 @@
 export const RecoverPassword = () => {
-    return (
-        <section>
-            Recover Password
-        </section>
-    )
-}
+  return <section>Recover Password</section>;
+};

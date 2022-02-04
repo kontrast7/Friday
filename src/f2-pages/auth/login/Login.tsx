@@ -1,7 +1,3 @@
 export const Login = () => {
-    return (
-        <section>
-            Login Page
-        </section>
-    )
-}
+  return <section>Login Page</section>;
+};

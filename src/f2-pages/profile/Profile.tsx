@@ -1,7 +1,3 @@
 export const Profile = () => {
-    return (
-        <section>
-            Profile
-        </section>
-    )
-}
+  return <section>Profile</section>;
+};

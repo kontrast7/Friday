@@ -1,5 +1,3 @@
 export const Register = () => {
-    return (
-        <section>Register</section>
-    )
-}
+  return <section>Register</section>;
+};
